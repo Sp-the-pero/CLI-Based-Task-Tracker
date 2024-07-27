@@ -8,13 +8,13 @@ I'm a high school student from Karachi, Pakistan, with a keen interest in progra
 - **Programming Languages:** Python, Arduino
 - **Web Development:** HTML (Very Basic)
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
-- **Other Interests:** IoT, Robotics
+- **Other Interests:** IoT, Electronics
 
 ## 🌱 Currently Learning
 - Nevermind
 
 ## 🤝 I’m Looking to Collaborate On
-I’m looking to collaborate on projects involving... . If you're working on something exciting in these areas, let’s connect!
+I’m looking to collaborate on projects involving python, arduino & electronics. If you're working on something exciting in these areas, let’s connect!
 
 📫You can reach me on:
 - **LinkedIn:** [Sp The Pero](https://www.linkedin.com/in/sp-the-pero-9232342aa/)
