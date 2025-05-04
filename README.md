@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a high school student from Karachi, Pakistan, with a keen interest in programming, electronics, gaming, chess, and football. I'm aiming for a career in engineering and love exploring new technologies and ideas.
+I'm a high school student from , with a keen interest in programming, electronics, gaming, chess, and football. I'm aiming for a career in engineering and love exploring new technologies and ideas.
 
 ## 🛠 Skills
 - **Programming Languages:** Python, Arduino
@@ -17,10 +17,7 @@ I'm a high school student from Karachi, Pakistan, with a keen interest in progra
 I’m looking to collaborate on projects involving python, arduino & electronics. If you're working on something exciting in these areas, let’s connect!
 
 📫You can reach me on:
-- **LinkedIn:** [Sp The Pero](https://www.linkedin.com/in/sp-the-pero-9232342aa/)
-- **GitHub:** [Sp The Pero](https://github.com/yourusername)
-
-
+-  [**Instagram**](https://www.instagram.com/spthepero/)
 
 <!---
 Sp-the-pero/Sp-the-pero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
